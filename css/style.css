@@ -1,0 +1,95 @@
+/* Navigation Header */
+.navbar-brand {
+    margin-top: .7em;
+}
+
+/* Navigation Links */
+.nav-header {
+    font-family: 'Exo', sans-serif !important;
+}
+
+.navbar-light .menu-link{
+    color: #999 !important; 
+}
+.menu-link:active{
+    font-weight: 500;
+    color: #370f47;
+    border-bottom: #370f47 wavy 2px;
+}
+.menu-link:hover {
+    font-weight: 500;
+    color: #370f47;
+}
+.nav-item{
+    margin: 0px 1em;
+}
+.nav-item:hover{
+    border-bottom: #370f47 solid 2px;
+}
+
+/* Jumbotron  */
+.jumbotron {
+    background-color: #ffffff;
+    height: 100%;
+    padding: 0;
+}
+
+.web-link{
+    font-size: 1.3em;
+    color: #888!important;
+    font-family: 'Exo', sans-serif !important;
+}
+
+.web-link:hover{
+    color: #370f47 !important;
+    text-decoration: none;
+}
+
+.page-header{
+    text-align: center;
+    line-height: 1.4;
+    font-size: 2.4em;
+    color: #999;
+    font-family: 'Exo', sans-serif !important;
+}
+
+.page-header span{
+    color: #370f47;
+}
+
+/* Panels */
+
+.panel-1 {
+    background-color: #370f47;
+}
+
+.panel-2 {
+    background-color: #ea293c;
+}
+
+.panel-3 {
+    background-color: #25aae1;
+}
+
+.panel-4 {
+    background-color: #ffac17;
+}
+
+
+/* portfolio buttons */
+
+.btn-portfolio {
+    font-family: 'Exo', sans-serif !important;
+    border-radius: 0;
+    background-color: #999999;
+    color: #ffffff;
+}
+
+.btn-portfolio:hover{
+    background-color: #370f47;
+    color: white;
+}
+
+.card-thumb {
+    /* height: 200px; */
+}
